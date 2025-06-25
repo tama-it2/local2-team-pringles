@@ -24,7 +24,7 @@
 
 ## 北海道名寄市
 - 北海道の北部に位置している
-- もちごめが有名
-<br>[セブンイレブン崩壊]（https://news.ntv.co.jp/category/society/36ae1bbaa14b463ab76285241336aad7）
-<br>[引用]　「店がつぶれた」コンビニが一部損壊…雪の重み原因か
+- もちごめが有名\
+[セブンイレブン崩壊](https://news.ntv.co.jp/category/society/36ae1bbaa14b463ab76285241336aad7)
+<br>[引用] 店がつぶれた」コンビニが一部損壊…雪の重み原因か
 
