@@ -15,6 +15,9 @@
 3. 市町村に関するニュースに、[リンク](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists) を貼りなさい
 4. ニュースサイトの記事から、重要な部分を 10 字 - 20 字程度で[引用](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text) しなさい
 5. これらを、MarkDown で記述しなさい。
+##　注意
+いつものように、**`main` ブランチを直接編集することは禁止です**。きちんとプルリクエスト→マージの手順を踏んでください。
+
 
 ## 兵庫県西脇市
 <br>
@@ -27,6 +30,6 @@
 > 28歳男性の耳をつかみ引きちぎる暴行を加え重傷負わせたとして、50歳の男が逮捕されました。
 
 
-いつものように、**`main` ブランチを直接編集することは禁止です**。きちんとプルリクエスト→マージの手順を踏んでください。
+
 
 
