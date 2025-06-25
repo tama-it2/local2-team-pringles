@@ -15,17 +15,7 @@
 3. 市町村に関するニュースに、[リンク](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists) を貼りなさい
 4. ニュースサイトの記事から、重要な部分を 10 字 - 20 字程度で[引用](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text) しなさい
 5. これらを、MarkDown で記述しなさい。
-
-## 兵庫県西脇市
-<br>-播州ラーメンがうまい。
-- 日本のおへその部分の公園がある。
-- 関西弁（播州弁）がやかましい。
-- 隣の京都、大阪にアクセスが良い。
-<br>-［リンク］https://news.yahoo.co.jp/articles/3b035808f28d437adcf74ce3c5bb9b1b94710808
-    -［リンク］https://www.47news.jp/area/282138
-<br>-28歳男性の耳をつかみ引きちぎる暴行を加え重傷負わせたとして、50歳の男が逮捕されました。
-
-
+##　注意
 いつものように、**`main` ブランチを直接編集することは禁止です**。きちんとプルリクエスト→マージの手順を踏んでください。
 
 ## 北海道名寄市
@@ -33,4 +23,18 @@
 - もちごめが有名\
 ニュース記事：[セブンイレブン損壊](https://news.ntv.co.jp/category/society/36ae1bbaa14b463ab76285241336aad7)
 >「店がつぶれた」コンビニが一部損壊…雪の重み原因か
+
+## 兵庫県西脇市
+<br>
+-播州ラーメンがうまい。
+- 日本のおへその部分の公園がある。
+- 関西弁（播州弁）がやかましい。
+- 隣の京都、大阪にアクセスが良い。\
+［リンク］(https://news.yahoo.co.jp/articles/3b035808f28d437adcf74ce3c5bb9b1b94710808)
+［リンク］(https://www.47news.jp/area/282138)
+> 28歳男性の耳をつかみ引きちぎる暴行を加え重傷負わせたとして、50歳の男が逮捕されました。
+
+
+
+
 
